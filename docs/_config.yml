@@ -20,9 +20,8 @@
 
 title: MediumRareApi
 email: heesuchang96@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  MediumRareApi is a software engineering blog that covers various topics that a developer may encounter including RESTful APIs, build tools, application frameworks, programming best practices, and more. 
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+description: MediumRareApi is a software engineering blog that covers various topics that a developer may encounter including RESTful APIs, build tools, application frameworks, programming best practices, and more. 
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://heesuuchang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  heesuuchang
 
