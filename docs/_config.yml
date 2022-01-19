@@ -27,7 +27,7 @@ url: "https://heesuuchang.github.io" # the base hostname & protocol for your sit
 github_username:  heesuuchang
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
